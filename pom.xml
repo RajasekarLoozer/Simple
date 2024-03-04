@@ -3,7 +3,7 @@
   <groupId>com.xpathaxes</groupId>
   <artifactId>XpathAxes</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <dependencies>
+  <dependencies>  ++++++++++
 	  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
